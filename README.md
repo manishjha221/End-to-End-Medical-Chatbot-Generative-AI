@@ -5,13 +5,13 @@
 ```
 ### create a virtual env
 ```bash
-conda create -n medicalbot python=3.10 -y
+conda create -n medibot python=3.10 -y
 ```
 
 ### activate virtual env
 
 ```bash
-conda activate medicalbot
+conda activate medibot
 ```
 
 ### step 2 - install the rquirements
